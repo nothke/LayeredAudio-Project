@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/LayeredAudio"]
+	path = Assets/Scripts/LayeredAudio
+	url = https://github.com/nothke/LayeredAudio.git
